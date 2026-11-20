@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=QNX CodeLabs
+Comment=QNX CodeLabs
+Icon=org.xfce.webbrowser
+Exec=xfce-open --launch WebBrowser https://qnx.github.io/codelabs
+Type=Application
+Categories=WebResources;
